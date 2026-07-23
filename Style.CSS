@@ -1,1 +1,69 @@
 
+body{
+  background:#f4f4f4;
+  font-family:Arial,
+  sans-serif;
+  text-align:center;
+}
+h1{
+  color:green;
+}
+h2{
+  color:darkgreen;
+}
+p{
+  font-size:18px;
+}
+ul{
+  list-style:none;
+}
+header{
+  background:half white;
+  color:black;
+  padding:20px;
+  border-radius:10px;
+}
+body{
+background:#f4f4f4;
+font-family:Arial,
+sans-serif;
+         text-align:center;
+}
+h1{
+  color:green;
+}
+h2{
+  color:green;
+}
+p{
+  font-size:18px;
+}
+ul{
+  list-style:none;
+}
+.hero{
+  background:green;
+  color:white;
+  padding:20px;
+  border-radius:10pz;
+}
+input, button{
+  padding:10px;
+  width:250px;
+  margin:5px;
+}
+button{
+  background:green;
+  color:white;
+  border:none;
+  border-radius:5px;
+}
+a{
+  display:inline-block;
+  background:green;
+  color:white;
+  padding:12px 20px;
+  text-decoration:none;
+  border-radius:8px;
+  margin:10px;
+}
